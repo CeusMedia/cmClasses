@@ -1,5 +1,5 @@
 <?php
-require_once dirname( __FILE__ )."/../autoload.php5";
+require_once dirname( __FILE__ )."/../autoload.php";
 //print( 'init loaders at '.date( 'H:i:s' )."\n" );
 
 $loaderTest	= new CMC_Loader();																//  get new Loader Instance
