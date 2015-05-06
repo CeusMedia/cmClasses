@@ -16,7 +16,9 @@
         "email": "office@ceusmedia.de",
         "jabber": "ceus-media@jabber.org"
     },
-	"autoload": {
-        "psr-0": ["src/"]
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
     }
 }
