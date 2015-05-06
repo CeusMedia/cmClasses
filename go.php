@@ -1,6 +1,6 @@
 <?php
 $url		= "http://cmtools.googlecode.com/svn/trunk/Go/";
-$fileApp	= "Go/Application.php5";
+$fileApp	= "Go/Application.php";
 $cwd		= getCwd();											//  current working directory
 chDir( dirname( realpath( __FILE__ ) ) );						//  tool working directory
 if( !file_exists( $fileApp ) )
