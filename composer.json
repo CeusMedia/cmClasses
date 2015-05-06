@@ -17,6 +17,6 @@
         "jabber": "ceus-media@jabber.org"
     },
 	"autoload": {
-        "files": ["autoload.php5"]
+        "files": ["ceus-media/classes/autoload.php5"]
     }
 }
